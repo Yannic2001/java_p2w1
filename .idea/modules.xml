@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boerderij/boerderij.iml" filepath="$PROJECT_DIR$/boerderij/boerderij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact/contact.iml" filepath="$PROJECT_DIR$/contact/contact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/garage/garage.iml" filepath="$PROJECT_DIR$/garage/garage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/punt_1/punt_1.iml" filepath="$PROJECT_DIR$/punt_1/punt_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/punt_2/punt_2.iml" filepath="$PROJECT_DIR$/punt_2/punt_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/punt_3/punt_3.iml" filepath="$PROJECT_DIR$/punt_3/punt_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/punt_4/punt_4.iml" filepath="$PROJECT_DIR$/punt_4/punt_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruimtefiguren/ruimtefiguren.iml" filepath="$PROJECT_DIR$/ruimtefiguren/ruimtefiguren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vorm/vorm.iml" filepath="$PROJECT_DIR$/vorm/vorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/werknemer/werknemer.iml" filepath="$PROJECT_DIR$/werknemer/werknemer.iml" />
+    </modules>
+  </component>
+</project>
